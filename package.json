@@ -1,0 +1,29 @@
+{
+  "name": "strapi-provider-upload-copies",
+  "version": "1.0.0",
+  "description": " A upload provider for strapi for uploading multiples copies to multiple desitnations using existing providers ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohitmayank/strapi-provider-upload-copies.git"
+  },
+  "keywords": [
+    "strapi",
+    "upload",
+    "provider",
+    "copies",
+    "copy",
+    "multiple",
+    "azure",
+    "aws"
+  ],
+  "author": "Mohit Jain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mohitmayank/strapi-provider-upload-copies/issues"
+  },
+  "homepage": "https://github.com/mohitmayank/strapi-provider-upload-copies#readme"
+}
