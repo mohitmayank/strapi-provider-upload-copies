@@ -1,6 +1,6 @@
 {
   "name": "strapi-provider-upload-copies",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": " A upload provider for strapi for uploading multiples copies to multiple desitnations using existing providers ",
   "main": "index.js",
   "scripts": {
